@@ -6,7 +6,7 @@
 
 ### Kaggle排名11300
 
-![pmpng](file://C:\Users\Administrator\Desktop\Kaggle\pm.png?msec=1674485166603)
+![img]((https://raw.githubusercontent.com/laodengbulao/Titanic-with-Machine-Learning/pm.png)
 
 ### 含数据集和提交结果
 
